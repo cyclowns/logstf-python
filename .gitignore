@@ -1,0 +1,16 @@
+# python
+src/__pycache__
+src/config.py
+
+# coverage
+.coverage
+coverage.xml
+htmlcov
+
+# build
+logstf_python.egg-info
+build
+dist
+
+# ide stuff
+.vscode/
